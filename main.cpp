@@ -96,14 +96,7 @@ Vec3_f_t castRay(const Ray &ray,
                                                                                                     /// than the amount of light that is effectively reaching the surface
                                                                                                     /// minus the amount of light that is absorbed
                     /// pattern
-                    //float scale = 5;
-                    // sin pattern
-                    //float pattern = (0.5 * cos(hitObjectPtr-> tex.m_y * 2 * Consts::M_PI * scale) + 0.5) * (0.5 * sin(hitObjectPtr-> tex.m_x * 2 * Consts::M_PI * scale) + 0.5);
-                    // checker board pattern
-                    //float angle = deg2rad(0.f);
-                    //float s = cos(angle) * hitObjectPtr-> tex.m_x - sin(angle) * hitObjectPtr-> tex.m_y;
-                    //float t = sin(angle) * hitObjectPtr-> tex.m_x + cos(angle) * hitObjectPtr-> tex.m_y;
-                    float pattern = 1.f; //(fmod(s * scale, 1) > 0.5)^(fmod(t * scale, 1) > 0.5);
+                    float pattern = 1.f;
 
                     /// diffuse color
                     diffuseHitColor.m_x += pattern * shadingRatio.m_x * light.m_x * facingRatio;    /// red component
