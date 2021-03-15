@@ -1,0 +1,238 @@
+# depslib dependency file v1.0
+1597520964 source:d:\programming\scratchapixel\raytracing\functions.cpp
+	"functions.h"
+
+1597521390 d:\programming\scratchapixel\raytracing\functions.h
+	"constants.h"
+
+1597935285 d:\programming\scratchapixel\raytracing\options.h
+	"vector.h"
+	"matrix.h"
+	"constants.h"
+
+1597934803 source:d:\programming\scratchapixel\raytracing\main.cpp
+	"vector.h"
+	"matrix.h"
+	"constants.h"
+	"options.h"
+	"lights.h"
+	"objects.h"
+	"rays.h"
+	"functions.h"
+	"scenes.h"
+	<iostream>
+	<fstream>
+	<chrono>
+	<vector>
+
+1584617808 d:\programming\scratchapixel\raytracing\procedures.h
+
+1593771897 d:\programming\scratchapixel\raytracing\classes.h
+	"functions.h"
+	"matrix.h"
+
+1584617707 source:d:\programming\scratchapixel\raytracing\procedures.cpp
+
+1596553389 d:\programming\scratchapixel\raytracing\constants.h
+	"vector.h"
+	"matrix.h"
+	<limits>
+
+1595691090 source:d:\programming\scratchapixel\raytracing\lights.cpp
+	"lights.h"
+
+1595954119 d:\programming\scratchapixel\raytracing\lights.h
+	"vector.h"
+	"matrix.h"
+	"constants.h"
+	"functions.h"
+	<tuple>
+
+1597929106 source:d:\programming\scratchapixel\raytracing\objects.cpp
+	"objects.h"
+	"constants.h"
+	"functions.h"
+	"options.h"
+
+1597933710 d:\programming\scratchapixel\raytracing\objects.h
+	"options.h"
+	"constants.h"
+	"rays.h"
+
+1596472240 d:\programming\scratchapixel\raytracing\rays.h
+
+1597677658 d:\programming\scratchapixel\raytracing\scenes.h
+	"lights.h"
+	"objects.h"
+	<vector>
+
+1597938119 source:d:\programming\scratchapixel\raytracing\scenes.cpp
+	"scenes.h"
+	"lights.h"
+	<vector>
+	<random>
+	<fstream>
+
+1607620674 source:c:\users\pryanik\programming\scratchapixel\raytracing\functions.cpp
+	"functions.h"
+	"matrix.h"
+	<fstream>
+	<time.h>
+
+1607418812 c:\users\pryanik\programming\scratchapixel\raytracing\functions.h
+	"constants.h"
+
+1607276676 c:\users\pryanik\programming\scratchapixel\raytracing\constants.h
+	"vector.h"
+	"matrix.h"
+	<limits>
+
+1595680292 source:c:\users\pryanik\programming\scratchapixel\raytracing\lights.cpp
+	"lights.h"
+
+1607014642 c:\users\pryanik\programming\scratchapixel\raytracing\lights.h
+	"vector.h"
+	"matrix.h"
+	"constants.h"
+	"functions.h"
+	<tuple>
+
+1607702040 source:c:\users\pryanik\programming\scratchapixel\raytracing\main.cpp
+	"vector.h"
+	"matrix.h"
+	"constants.h"
+	"options.h"
+	"lightsClass.h"
+	"objectsClass.h"
+	"raysClass.h"
+	"functions.h"
+	"scenes.h"
+	<iostream>
+	<fstream>
+	<chrono>
+	<vector>
+
+1607530156 c:\users\pryanik\programming\scratchapixel\raytracing\options.h
+	"vector.h"
+	"matrix.h"
+	"constants.h"
+
+1607013207 c:\users\pryanik\programming\scratchapixel\raytracing\objects.h
+	"options.h"
+	"constants.h"
+	"rays.h"
+
+1596461442 c:\users\pryanik\programming\scratchapixel\raytracing\rays.h
+
+1607097170 c:\users\pryanik\programming\scratchapixel\raytracing\scenes.h
+	"lightsClass.h"
+	"objectsClass.h"
+	<vector>
+
+1607018668 source:c:\users\pryanik\programming\scratchapixel\raytracing\objects.cpp
+	"objects.h"
+	"constants.h"
+	"functions.h"
+	"options.h"
+
+1607706582 source:c:\users\pryanik\programming\scratchapixel\raytracing\scenes.cpp
+	"scenes.h"
+	"lightsClass.h"
+	"objectsClass.h"
+	"functions.h"
+	<vector>
+	<fstream>
+
+1607097154 source:c:\users\pryanik\programming\scratchapixel\raytracing\lightsclass.cpp
+	"lightsClass.h"
+
+1607276692 c:\users\pryanik\programming\scratchapixel\raytracing\lightsclass.h
+	"vector.h"
+	"matrix.h"
+	"constants.h"
+	"functions.h"
+	<tuple>
+
+1607679636 c:\users\pryanik\programming\scratchapixel\raytracing\objectsclass.h
+	"options.h"
+	"constants.h"
+	"raysClass.h"
+
+1596461442 c:\users\pryanik\programming\scratchapixel\raytracing\raysclass.h
+
+1607421204 source:c:\users\pryanik\programming\scratchapixel\raytracing\objectsclass.cpp
+	"objectsClass.h"
+	"constants.h"
+	"functions.h"
+	"options.h"
+
+1607097154 source:c:\users\pryanik\programming\scratchapixel\raytracing_github\lightsclass.cpp
+	"lightsClass.h"
+
+1614954537 c:\users\pryanik\programming\scratchapixel\raytracing_github\lightsclass.h
+	"vector.h"
+	"matrix.h"
+	"constants.h"
+	"functions.h"
+	<tuple>
+
+1614954538 c:\users\pryanik\programming\scratchapixel\raytracing_github\constants.h
+	"vector.h"
+	"matrix.h"
+	<limits>
+
+1615745480 c:\users\pryanik\programming\scratchapixel\raytracing_github\functions.h
+	"constants.h"
+
+1615742937 source:c:\users\pryanik\programming\scratchapixel\raytracing_github\functions.cpp
+	"functions.h"
+	"matrix.h"
+	<fstream>
+	<time.h>
+
+1614954535 source:c:\users\pryanik\programming\scratchapixel\raytracing_github\objectsclass.cpp
+	"objectsClass.h"
+	"constants.h"
+	"functions.h"
+	"options.h"
+
+1614954534 c:\users\pryanik\programming\scratchapixel\raytracing_github\objectsclass.h
+	"options.h"
+	"constants.h"
+	"raysClass.h"
+
+1607530156 c:\users\pryanik\programming\scratchapixel\raytracing_github\options.h
+	"vector.h"
+	"matrix.h"
+	"constants.h"
+
+1596461442 c:\users\pryanik\programming\scratchapixel\raytracing_github\raysclass.h
+
+1614952910 source:c:\users\pryanik\programming\scratchapixel\raytracing_github\scenes.cpp
+	"scenes.h"
+	"lightsClass.h"
+	"objectsClass.h"
+	"functions.h"
+	<vector>
+	<fstream>
+
+1607097170 c:\users\pryanik\programming\scratchapixel\raytracing_github\scenes.h
+	"lightsClass.h"
+	"objectsClass.h"
+	<vector>
+
+1614956146 source:c:\users\pryanik\programming\scratchapixel\raytracing_github\main.cpp
+	"vector.h"
+	"matrix.h"
+	"constants.h"
+	"options.h"
+	"lightsClass.h"
+	"objectsClass.h"
+	"raysClass.h"
+	"functions.h"
+	"scenes.h"
+	<iostream>
+	<fstream>
+	<chrono>
+	<vector>
+

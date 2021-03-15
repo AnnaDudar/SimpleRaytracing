@@ -1,0 +1,262 @@
+Scene: 
+Distant light
+color: (0.2 0.2 0.19)
+intensity: 10
+direction: (0 0 -1)
+
+Point light
+color: (0.9 0.9 0.9)
+intensity: 1000
+position: (-5 10 5)
+
+Point light
+color: (0.9 0.9 0.9)
+intensity: 1000
+position: (8 -3 1)
+
+Mesh from sphere
+Mesh 1
+number of triangles: 112
+number of vertices: 336
+number of points: 58
+culling: on
+smooth shading: off
+
+Spheres
+Sphere 2
+center: (4 -1.85 -7)
+radius: 0.75
+culling: on
+smooth shading: on
+
+Sphere 3
+center: (2.57393 -1.6005 -4.07001)
+radius: 0.735
+culling: on
+smooth shading: on
+
+Sphere 4
+center: (-0.489609 -1.352 -3.23167)
+radius: 0.72
+culling: on
+smooth shading: on
+
+Sphere 5
+center: (-3.0712 -1.1045 -4.93657)
+radius: 0.705
+culling: on
+smooth shading: on
+
+Sphere 6
+center: (-3.48047 -0.858 -7.91995)
+radius: 0.69
+culling: on
+smooth shading: on
+
+Sphere 7
+center: (-1.56131 -0.6125 -10.1325)
+radius: 0.675
+culling: on
+smooth shading: on
+
+Sphere 8
+center: (1.28513 -0.368 -10.1478)
+radius: 0.66
+culling: on
+smooth shading: on
+
+Sphere 9
+center: (3.11852 -0.1245 -8.07928)
+radius: 0.645
+culling: on
+smooth shading: on
+
+Sphere 10
+center: (2.78207 0.118 -5.41884)
+radius: 0.63
+culling: on
+smooth shading: on
+
+Sphere 11
+center: (0.627967 0.3595 -3.96427)
+radius: 0.615
+culling: on
+smooth shading: on
+
+Sphere 12
+center: (-1.80604 0.6 -4.60454)
+radius: 0.6
+culling: on
+smooth shading: on
+
+Sphere 13
+center: (-2.8919 0.8395 -6.78335)
+radius: 0.585
+culling: on
+smooth shading: on
+
+Sphere 14
+center: (-1.99994 1.078 -8.95965)
+radius: 0.57
+culling: on
+smooth shading: on
+
+Sphere 15
+center: (0.146877 1.3155 -9.696)
+radius: 0.555
+culling: on
+smooth shading: on
+
+Sphere 16
+center: (2.04378 1.552 -8.60715)
+radius: 0.54
+culling: on
+smooth shading: on
+
+Sphere 17
+center: (2.45797 1.7875 -6.5435)
+radius: 0.525
+culling: on
+smooth shading: on
+
+Sphere 18
+center: (1.22809 2.022 -4.93801)
+radius: 0.51
+culling: on
+smooth shading: on
+
+Sphere 19
+center: (-0.707839 2.2555 -4.81163)
+radius: 0.495
+culling: on
+smooth shading: on
+
+Sphere 20
+center: (-2.01945 2.488 -6.12717)
+radius: 0.48
+culling: on
+smooth shading: on
+
+Sphere 21
+center: (-1.89815 2.7195 -7.89834)
+radius: 0.465
+culling: on
+smooth shading: on
+
+Sphere 22
+center: (-0.550327 2.95 -8.9228)
+radius: 0.45
+culling: on
+smooth shading: on
+
+Sphere 23
+center: (1.02728 3.1795 -8.59834)
+radius: 0.435
+culling: on
+smooth shading: on
+
+Sphere 24
+center: (1.77991 3.408 -7.2682)
+radius: 0.42
+culling: on
+smooth shading: on
+
+Sphere 25
+center: (1.29974 3.6355 -5.90425)
+radius: 0.405
+culling: on
+smooth shading: on
+
+Sphere 26
+center: (0.0325589 3.862 -5.40033)
+radius: 0.39
+culling: on
+smooth shading: on
+
+Sphere 27
+center: (-1.10654 4.0875 -5.9873)
+radius: 0.375
+culling: on
+smooth shading: on
+
+Sphere 28
+center: (-1.39171 4.312 -7.15209)
+radius: 0.36
+culling: on
+smooth shading: on
+
+Sphere 29
+center: (-0.746798 4.5355 -8.06409)
+radius: 0.345
+culling: on
+smooth shading: on
+
+Sphere 30
+center: (0.282977 4.758 -8.16616)
+radius: 0.33
+culling: on
+smooth shading: on
+
+Sphere 31
+center: (0.974299 4.9795 -7.51063)
+radius: 0.315
+culling: on
+smooth shading: on
+
+Sphere 32
+center: (0.933315 5.2 -6.64094)
+radius: 0.3
+culling: on
+smooth shading: on
+
+Sphere 33
+center: (0.311596 5.4195 -6.15566)
+radius: 0.285
+culling: on
+smooth shading: on
+
+Sphere 34
+center: (-0.381055 5.638 -6.29658)
+radius: 0.27
+culling: on
+smooth shading: on
+
+Sphere 35
+center: (-0.68246 5.8555 -6.84428)
+radius: 0.255
+culling: on
+smooth shading: on
+
+Sphere 36
+center: (-0.486343 6.072 -7.35138)
+radius: 0.24
+culling: on
+smooth shading: on
+
+Plain/ mesh
+Mesh 2
+number of triangles: 4
+number of vertices: 12
+number of points: 4
+culling: on
+smooth shading: off
+
+Wall/ mesh
+Mesh 3
+number of triangles: 2
+number of vertices: 6
+number of points: 4
+culling: on
+smooth shading: off
+
+Options:
+image width: 1920
+image height: 1080
+image aspect ratio: 1.77778
+field of view: 60
+
+
+rendering time: 47.4803 s
+total number of meshes: 3
+total number of spheres: 35
+
